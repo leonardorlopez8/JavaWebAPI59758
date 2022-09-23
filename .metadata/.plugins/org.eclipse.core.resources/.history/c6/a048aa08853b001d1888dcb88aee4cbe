@@ -1,0 +1,15 @@
+package com.educacionit.implementacion.mysql;
+
+import java.sql.PreparedStatement;
+
+public class UsuarioImplementacion implements DAO<Usuario, String>, ConexionMySQL{
+
+	private PreparedStatement psBuscar;
+	private PreparedStatement psInsertar;
+	private PreparedStatement psEliminar;
+	private PreparedStatement psActualizar;
+	private PreparedStatement psListar;
+	
+	
+	
+}

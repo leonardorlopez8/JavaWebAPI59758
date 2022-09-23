@@ -1,0 +1,33 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Mi primera sesion</title>
+</head>
+<body>
+
+
+<h1>Titulo del Proyecto</h1>
+
+<%
+  //String mensaje = (String) request.getAttribute("mensaje");
+// out.print(mensaje);
+  
+  String mensaje = (String) session.getAttribute("mensaje");
+  out.print(mensaje);
+  
+%>
+
+<h1> <%=mensaje %>    </h1>
+
+<%
+  
+  out.print("<h2>"+mensaje+"<h2>");
+
+%>
+
+
+</body>
+</html>

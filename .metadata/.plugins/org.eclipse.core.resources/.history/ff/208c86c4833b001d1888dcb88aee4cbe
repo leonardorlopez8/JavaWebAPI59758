@@ -1,0 +1,5 @@
+package com.eduacionit.entidades;
+
+public class Usuario {
+
+}

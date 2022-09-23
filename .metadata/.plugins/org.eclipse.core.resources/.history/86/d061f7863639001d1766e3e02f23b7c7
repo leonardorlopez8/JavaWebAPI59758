@@ -1,0 +1,15 @@
+package com.educacionit.interfaces;
+
+import java.sql.Connection;
+import java.util.Properties;
+
+public interface ConexionMySQL {
+
+	default Connection getConexion() {
+		Connection conexion = null;
+		Properties propiedades = new Properties();
+		
+		
+	}
+	
+}

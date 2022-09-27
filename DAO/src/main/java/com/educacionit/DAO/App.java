@@ -22,7 +22,7 @@ public class App
        //Listamos todos los Usuarios
  		List<Usuario> lista = impl.listar();
  		lista.forEach(System.out::println);
-
+        
        
     }
 }

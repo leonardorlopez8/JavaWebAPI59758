@@ -1,0 +1,24 @@
+package com.educacionit.DAO;
+
+import java.util.Date;
+
+import com.eduacionit.entidades.Usuario;
+import com.educacionit.implementacion.mysql.UsuarioImplementacion;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+         Usuario usuario = null;
+         UsuarioImplementacion impl = new UsuarioImplementacion();
+         
+         usuario = impl.buscar("user1@gmail.com");
+         
+         impl.insertar(new Usuario("user3@gmail.com", "1234", new Date(), new Date()));
+
+    }
+}

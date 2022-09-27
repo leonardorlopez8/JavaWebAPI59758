@@ -1,0 +1,27 @@
+package com.educacionit.DAO;
+
+import java.text.ParseException;
+import java.util.Date;
+
+import com.eduacionit.entidades.Usuario;
+import com.educacionit.implementacion.mysql.UsuarioImplementacion;
+import com.educacionit.interfaces.UtilidadesFecha;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args ) throws ParseException
+    {
+         Usuario usuario = null;
+         UsuarioImplementacion impl = new UsuarioImplementacion();
+         
+         usuario = new Usuario("user1@gmail.com", "3333", new Date(), UtilidadesFecha.getStringAFecha("2022-09-08"));
+         
+         implementacion.guardar(usuario);
+         
+       
+    }
+}

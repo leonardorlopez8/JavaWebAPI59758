@@ -7,6 +7,7 @@
 		<groupId>com.educacionit</groupId>
 		<artifactId>parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
+	    <relativePath>../parent</relativePath>
 	</parent>
 
 	
@@ -16,6 +17,7 @@
 	<name>DAO</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
+    <packaging>jar</packaging>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -42,6 +44,7 @@
 	</dependencies>
 
 	<build>
+		<defaultGoal>package</defaultGoal>
 		<pluginManagement>
 			<!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
 			<plugins>

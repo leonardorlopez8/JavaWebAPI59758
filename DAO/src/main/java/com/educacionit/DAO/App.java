@@ -20,9 +20,9 @@ public class App
          UsuarioImplementacion impl = new UsuarioImplementacion();
          
        //Listamos todos los Usuarios
- 		List<Usuario> lista = impl.listar();
- 		lista.forEach(System.out::println);
-        
-       
+// 		List<Usuario> lista = impl.listar();
+// 		lista.forEach(System.out::println);
+        Usuario user = impl.buscar("user1@gmail.com");
+        System.out.println(user);
     }
 }

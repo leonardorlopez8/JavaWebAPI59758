@@ -23,7 +23,7 @@ public class UsuarioImplementacion implements DAO<Usuario, String>, ConexionMySQ
     private final String KEY = "JavaWebAPI";
 	
 	@Override
-	public Usuario buscar(String correo) {
+	public Usuario buscar(String correo)  {
 		Usuario usuario = null;
 		String query = "select cast(AES_DECRYPT(clave, ?) as char(50)) as clave, fechaActualizacion, fechaCreacion from usuarios where correo = ?";
 
@@ -49,6 +49,7 @@ public class UsuarioImplementacion implements DAO<Usuario, String>, ConexionMySQ
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+		
 		}
 		return usuario;
 	}
@@ -99,7 +100,7 @@ public class UsuarioImplementacion implements DAO<Usuario, String>, ConexionMySQ
 			
 		}catch(SQLException e) {
 			e.printStackTrace();
-		}
+		} 
 		return false;
 	}
 
@@ -118,7 +119,7 @@ public class UsuarioImplementacion implements DAO<Usuario, String>, ConexionMySQ
         	
         }catch(SQLException e) {
         	e.printStackTrace();
-        }
+        } 
 		return false;
 	}
 
@@ -149,7 +150,7 @@ public class UsuarioImplementacion implements DAO<Usuario, String>, ConexionMySQ
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
+		} 
 		
 		return listaUsuarios;
 	}

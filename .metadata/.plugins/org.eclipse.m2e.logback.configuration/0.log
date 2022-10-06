@@ -3113,3 +3113,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (3) references 
 2022-10-06 19:13:15,064 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-06 19:13:15,064 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\WebServiceClient\src\main\resources
 2022-10-06 19:13:15,066 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-06 19:13:15,067 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\WebServiceClient\src\test\resources

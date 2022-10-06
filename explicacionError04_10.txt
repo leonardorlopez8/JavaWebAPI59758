@@ -1,0 +1,5 @@
+Gente:
+      El error se debia a que tenia mal el nombre el paquete com.educacionit.entidades del proyecto DAO. Al corregirlo y ejecutar desde ambos clientes, es decir desde 
+      WebServiceClient y WebServiceClient2 ha corrido sin ningun problema. 
+      
+Saludos

@@ -4,7 +4,7 @@ import java.text.ParseException;
 import java.util.Date;
 import java.util.List;
 
-import com.eduacionit.entidades.Usuario;
+import com.educacionit.entidades.Usuario;
 import com.educacionit.implementacion.mysql.UsuarioImplementacion;
 import com.educacionit.interfaces.UtilidadesFecha;
 

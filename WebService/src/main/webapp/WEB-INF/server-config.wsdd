@@ -30,24 +30,24 @@
  </ns1:service>
  <ns1:service name="UsuarioServicio" provider="java:RPC" style="wrapped" use="literal">
   <ns2:operation name="agregar" qname="ns1:agregar" returnQName="ns1:agregarReturn" returnType="xsd:boolean" soapAction="" xmlns:ns1="http://servicios.educacionit.com" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:ns2="http://xml.apache.org/axis/wsdd/">
-   <ns3:parameter qname="ns1:usuario" type="ns2:Usuario" xmlns:ns2="http://entidades.eduacionit.com" xmlns:ns3="http://xml.apache.org/axis/wsdd/"/>
+   <ns3:parameter qname="ns1:usuario" type="ns2:Usuario" xmlns:ns2="http://entidades.educacionit.com" xmlns:ns3="http://xml.apache.org/axis/wsdd/"/>
   </ns2:operation>
   <ns1:operation name="eliminar" qname="ns3:eliminar" returnQName="ns3:eliminarReturn" returnType="xsd:boolean" soapAction="" xmlns:ns3="http://servicios.educacionit.com" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-   <ns1:parameter qname="ns3:usuario" type="ns4:Usuario" xmlns:ns4="http://entidades.eduacionit.com"/>
+   <ns1:parameter qname="ns3:usuario" type="ns4:Usuario" xmlns:ns4="http://entidades.educacionit.com"/>
   </ns1:operation>
-  <ns1:operation name="buscar" qname="ns5:buscar" returnQName="ns5:buscarReturn" returnType="ns6:Usuario" soapAction="" xmlns:ns5="http://servicios.educacionit.com" xmlns:ns6="http://entidades.eduacionit.com">
+  <ns1:operation name="buscar" qname="ns5:buscar" returnQName="ns5:buscarReturn" returnType="ns6:Usuario" soapAction="" xmlns:ns5="http://servicios.educacionit.com" xmlns:ns6="http://entidades.educacionit.com">
    <ns1:parameter qname="ns5:correo" type="xsd:string" xmlns:xsd="http://www.w3.org/2001/XMLSchema"/>
   </ns1:operation>
-  <ns1:operation name="listar" qname="ns7:listar" returnQName="ns7:listarReturn" returnType="ns8:Usuario" soapAction="" xmlns:ns7="http://servicios.educacionit.com" xmlns:ns8="http://entidades.eduacionit.com"/>
+  <ns1:operation name="listar" qname="ns7:listar" returnQName="ns7:listarReturn" returnType="ns8:Usuario" soapAction="" xmlns:ns7="http://servicios.educacionit.com" xmlns:ns8="http://entidades.educacionit.com"/>
   <ns1:parameter name="allowedMethods" value="eliminar buscar listar agregar"/>
   <ns1:parameter name="typeMappingVersion" value="1.2"/>
   <ns1:parameter name="wsdlPortType" value="UsuarioServicio"/>
   <ns1:parameter name="className" value="com.educacionit.servicios.UsuarioServicio"/>
   <ns1:parameter name="wsdlServicePort" value="UsuarioServicio"/>
-  <ns1:parameter name="schemaQualified" value="http://servicios.educacionit.com,http://entidades.eduacionit.com"/>
+  <ns1:parameter name="schemaQualified" value="http://servicios.educacionit.com,http://entidades.educacionit.com"/>
   <ns1:parameter name="wsdlTargetNamespace" value="http://servicios.educacionit.com"/>
   <ns1:parameter name="wsdlServiceElement" value="UsuarioServicioService"/>
-  <ns1:typeMapping deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle="" qname="ns9:Usuario" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" type="java:com.eduacionit.entidades.Usuario" xmlns:ns9="http://entidades.eduacionit.com"/>
+  <ns1:typeMapping deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle="" qname="ns9:Usuario" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" type="java:com.educacionit.entidades.Usuario" xmlns:ns9="http://entidades.educacionit.com"/>
  </ns1:service>
  <ns1:service name="Version" provider="java:RPC">
   <ns1:parameter name="allowedMethods" value="getVersion"/>

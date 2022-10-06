@@ -1,31 +1,30 @@
-package com.eduacionit.entidades;
+package com.educacionit.entidades;
 
 import java.util.Date;
 
-import com.educacionit.interfaces.UtilidadesFecha;
-
 public class Usuario {
+
 	private String correo;
 	private String clave;
-	private Date fechaActualizacion;
 	private Date fechaCreacion;
-
+	private Date fechaActualizacion;
+	
 	public Usuario() {
-
+		// TODO Auto-generated constructor stub
 	}
 
-	public Usuario(String correo, String clave, Date fechaActualizacion, Date fechaCreacion) {
+	public Usuario(String correo, String clave, Date fechaCreacion, Date fechaActualizacion) {
 		super();
 		this.correo = correo;
 		this.clave = clave;
-		this.fechaActualizacion = fechaActualizacion;
 		this.fechaCreacion = fechaCreacion;
+		this.fechaActualizacion = fechaActualizacion;
 	}
 
 	@Override
 	public String toString() {
-		return "Usuario [correo=" +  correo + ", clave=" + clave + ", fechaActualizacion=" + fechaActualizacion
-				+ ", fechaCreacion=" + UtilidadesFecha.getFechaAString(fechaCreacion) + "]";
+		return "Usuario [correo=" + correo + ", clave=" + clave + ", fechaCreacion=" + fechaCreacion
+				+ ", fechaActualizacion=" + fechaActualizacion + "]";
 	}
 
 	public String getCorreo() {
@@ -44,14 +43,6 @@ public class Usuario {
 		this.clave = clave;
 	}
 
-	public Date getFechaActualizacion() {
-		return fechaActualizacion;
-	}
-
-	public void setFechaActualizacion(Date fechaActualizacion) {
-		this.fechaActualizacion = fechaActualizacion;
-	}
-
 	public Date getFechaCreacion() {
 		return fechaCreacion;
 	}
@@ -60,4 +51,15 @@ public class Usuario {
 		this.fechaCreacion = fechaCreacion;
 	}
 
+	public Date getFechaActualizacion() {
+		return fechaActualizacion;
+	}
+
+	public void setFechaActualizacion(Date fechaActualizacion) {
+		this.fechaActualizacion = fechaActualizacion;
+	}
+	
+	
+	
+	
 }

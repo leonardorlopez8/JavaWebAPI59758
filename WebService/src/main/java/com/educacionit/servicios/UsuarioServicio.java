@@ -7,7 +7,7 @@ import javax.jws.WebParam;
 import javax.jws.WebResult;
 import javax.jws.WebService;
 
-import com.eduacionit.entidades.Usuario;
+import com.educacionit.entidades.Usuario;
 import com.educacionit.implementacion.mysql.UsuarioImplementacion;
 
 

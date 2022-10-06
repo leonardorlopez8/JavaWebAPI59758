@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import com.eduacionit.entidades.Usuario;
+import com.educacionit.entidades.Usuario;
 import com.educacionit.interfaces.ConexionMySQL;
 import com.educacionit.interfaces.DAO;
 import com.educacionit.interfaces.UtilidadesFecha;

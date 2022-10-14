@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.educacionit.DAO.AppTest" time="0.143" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.educacionit.DAO.AppTest" time="0.171" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="ES"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Leonardo\AppData\Local\Temp\surefire8497788698288688750\surefirebooter604979669381505855.jar C:\Users\Leonardo\AppData\Local\Temp\surefire8497788698288688750 2022-10-02T20-27-42_176-jvmRun1 surefire2909609318609996559tmp surefire_05902075081489184081tmp"/>
+    <property name="sun.java.command" value="C:\Users\Leonardo\AppData\Local\Temp\surefire4880059229975081975\surefirebooter6349867913358392794.jar C:\Users\Leonardo\AppData\Local\Temp\surefire4880059229975081975 2022-10-11T18-59-51_661-jvmRun1 surefire8126539003554323477tmp surefire_06886985962103356457tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\DAO\target\test-classes;C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\DAO\target\classes;C:\Users\Leonardo\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Leonardo\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Leonardo\.m2\repository\mysql\mysql-connector-java\8.0.26\mysql-connector-java-8.0.26.jar;C:\Users\Leonardo\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Leonardo"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Leonardo\AppData\Local\Temp\surefire8497788698288688750\surefirebooter604979669381505855.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Leonardo\AppData\Local\Temp\surefire4880059229975081975\surefirebooter6349867913358392794.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.educacionit.DAO.AppTest" time="0.016"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.educacionit.DAO.AppTest" time="0.01"/>
 </testsuite>

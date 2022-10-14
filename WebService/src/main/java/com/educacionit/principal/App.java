@@ -3,7 +3,7 @@ package com.educacionit.principal;
 import javax.xml.ws.Endpoint;
 
 import com.educacionit.entidades.Usuario;
-import com.educacionit.implementacion.mysql.UsuarioImplementacion;
+
 import com.educacionit.servicios.ServicioBasico;
 import com.educacionit.servicios.UsuarioServicio;
 

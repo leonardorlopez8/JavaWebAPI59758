@@ -11,13 +11,17 @@
     <fullyQualifiedTypeName name="com.educacionit.interfaces.ConexionMySQL"/>
     <fullyQualifiedTypeName name="com.educacionit.interfaces.DAO"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="com.educacionit.interfaces.UtilidadesFecha"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="javax.jws.WebService"/>
     <fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
     <fullyQualifiedTypeName name="com.educacionit.servicios.ServicioBasico"/>
-    <fullyQualifiedTypeName name="com.educacionit.servicios.UsuarioServicio"/>
-    <fullyQualifiedTypeName name="com.educacionit.implementacion.mysql.UsuarioImplementacion"/>
     <fullyQualifiedTypeName name="com.eduacionit.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="org.tempuri.CalculatorSoapProxy"/>
+    <fullyQualifiedTypeName name="com.educacionit.entidades.Usuario"/>
+    <fullyQualifiedTypeName name="com.educacionit.servicios.UsuarioServicio"/>
+    <fullyQualifiedTypeName name="com.educacionit.servicios.UsuarioServicioProxy"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.educacionit.implementacion.mysql.UsuarioImplementacion"/>
 </qualifiedTypeNameHistroy>

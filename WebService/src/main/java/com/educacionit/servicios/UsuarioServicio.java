@@ -11,7 +11,9 @@ import com.educacionit.entidades.Usuario;
 import com.educacionit.implementacion.mysql.UsuarioImplementacion;
 
 
-@WebService(name="ServicioUsuario1", portName="ServicioUsuario")
+
+
+@WebService(name="ServicioUsuario", portName="ServicioUsuario")
 public class UsuarioServicio {
 
 	private static UsuarioImplementacion implementacion = new UsuarioImplementacion();

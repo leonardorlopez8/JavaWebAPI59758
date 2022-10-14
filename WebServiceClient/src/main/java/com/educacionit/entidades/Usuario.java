@@ -41,7 +41,9 @@ public class Usuario  implements java.io.Serializable {
     }
 
 
-    @Override
+    
+
+	@Override
 	public String toString() {
 		return "Usuario [clave=" + clave + ", correo=" + correo + ", fechaActualizacion=" + fechaActualizacion
 				+ ", fechaCreacion=" + fechaCreacion + "]";
@@ -218,6 +220,10 @@ public class Usuario  implements java.io.Serializable {
             _javaType, _xmlType, typeDesc);
     }
 
+    //REFLEXION: generar codigo en tiempo de ejecucion.
+    
+    //guardar codigo en la BBDD, TABLA X 
+    
     /**
      * Get Custom Deserializer
      */

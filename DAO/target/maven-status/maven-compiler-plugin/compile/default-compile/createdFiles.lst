@@ -1,5 +1,5 @@
-com\educacionit\entidades\Usuario.class
 com\educacionit\interfaces\UtilidadesFecha.class
+com\educacionit\entidades\Usuario.class
 com\educacionit\interfaces\ConexionMySQL.class
 com\educacionit\implementacion\mysql\UsuarioImplementacion.class
 com\educacionit\DAO\App.class

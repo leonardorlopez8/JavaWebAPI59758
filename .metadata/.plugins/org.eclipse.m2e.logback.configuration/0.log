@@ -3906,3 +3906,215 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (3) references 
 2022-10-14 20:10:08,032 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-14 20:10:08,033 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
 2022-10-14 20:10:08,035 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-14 20:10:08,035 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 18:13:38,950 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-18 18:13:57,673 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-18 18:14:00,059 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:14:00,059 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 18:14:00,066 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:14:00,067 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 18:14:42,100 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:14:42,100 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 18:14:42,107 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:14:42,107 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 18:18:08,323 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:18:08,323 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 18:18:08,326 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:18:08,327 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 18:20:54,029 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:20:54,029 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 18:20:54,032 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:20:54,033 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 18:29:28,824 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:29:28,824 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 18:29:28,828 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:29:28,829 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 18:44:06,982 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:44:06,982 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 18:44:06,986 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:44:06,987 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 18:45:49,894 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:45:49,895 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 18:45:49,898 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:45:49,899 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 18:47:01,580 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:47:01,580 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 18:47:01,596 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 18:47:01,596 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:00:21,198 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:00:21,199 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:00:21,202 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:00:21,203 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:00:48,657 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:00:48,658 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:00:48,661 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:00:48,662 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:10:38,081 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:10:38,082 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:10:38,085 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:10:38,085 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:11:25,485 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:11:25,485 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:11:25,494 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:11:25,495 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:12:54,566 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:12:54,566 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:12:54,569 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:12:54,570 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:17:42,307 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:17:42,308 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:17:42,317 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:17:42,317 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:17:49,372 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:17:49,372 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:17:49,375 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:17:49,376 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:19:17,626 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:19:17,626 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:19:17,634 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:19:17,635 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:25:00,434 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:25:00,434 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:25:00,437 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:25:00,438 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:27:04,646 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:27:04,646 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:27:04,650 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:27:04,650 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:27:40,734 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:27:40,734 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:27:40,740 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:27:40,741 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:36:37,501 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:36:37,502 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:36:37,505 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:36:37,506 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:38:18,954 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:38:18,954 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 19:38:18,958 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:38:18,959 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 19:55:12,035 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\pom.xml
+2022-10-18 19:55:19,131 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\pom.xml.
+2022-10-18 19:55:21,084 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestClient/src/main/java
+2022-10-18 19:55:21,132 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestClient/src/test/java
+2022-10-18 19:55:21,510 [Worker-45: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2022-10-18 19:55:23,107 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:55:23,107 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 19:55:23,111 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:55:23,112 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 19:56:16,215 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\pom.xml.
+2022-10-18 19:56:16,553 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:56:16,554 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 19:56:16,557 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:56:16,558 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 19:56:58,019 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\pom.xml.
+2022-10-18 19:56:59,268 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:56:59,268 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 19:56:59,272 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:56:59,272 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 19:57:01,736 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:57:01,737 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 19:57:01,740 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:57:01,741 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 19:58:25,023 [Worker-64: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\pom.xml.
+2022-10-18 19:58:25,666 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:58:25,667 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 19:58:25,670 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:58:25,671 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 19:58:26,795 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:58:26,795 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 19:58:26,798 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:58:26,798 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 19:59:41,752 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\pom.xml.
+2022-10-18 19:59:42,926 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:59:42,926 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 19:59:42,929 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 19:59:42,930 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:00:53,815 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\pom.xml.
+2022-10-18 20:00:54,857 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:00:54,858 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:00:54,864 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:00:54,864 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:00:57,027 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:00:57,028 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:00:57,050 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:00:57,051 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:02:32,830 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-18 20:02:33,666 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:RestClient:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\pom.xml.
+2022-10-18 20:02:34,030 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.educacionit:Rest:0.0.1-SNAPSHOT @ C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\pom.xml.
+2022-10-18 20:02:34,086 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-18 20:02:34,424 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-18 20:02:36,366 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-18 20:02:37,772 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestClient/src/main/java
+2022-10-18 20:02:37,774 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RestClient/src/test/java
+2022-10-18 20:02:39,436 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2022-10-18 20:02:39,954 [Worker-61: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-18 20:02:40,044 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:02:40,045 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-18 20:02:40,051 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:02:40,054 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-18 20:02:40,839 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:02:40,839 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:02:40,843 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:02:40,843 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:06:48,079 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:06:48,079 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:06:48,082 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:06:48,083 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:07:46,801 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:07:46,802 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:07:46,804 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:07:46,806 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:08:08,125 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:08:08,125 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:08:08,129 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:08:08,130 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:09:41,353 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:09:41,353 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:09:41,356 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:09:41,357 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:10:13,215 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:10:13,215 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:10:13,219 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:10:13,220 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:11:50,962 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:11:50,963 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:11:50,969 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:11:50,970 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:12:33,099 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:12:33,099 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:12:33,105 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:12:33,106 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-18 20:15:18,257 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:15:18,257 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-18 20:15:18,260 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 20:15:18,261 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-21 17:55:17,571 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-21 17:55:59,585 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 17:55:59,588 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\DAO\src\main\resources
+2022-10-21 17:55:59,627 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 17:55:59,629 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\DAO\src\test\resources
+2022-10-21 17:56:09,965 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-21 17:56:10,537 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 17:56:10,544 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-21 17:56:10,548 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 17:56:10,550 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-21 18:04:09,641 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 18:04:09,645 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-21 18:04:09,648 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 18:04:09,649 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-21 18:15:27,748 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 18:15:27,749 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-21 18:15:27,754 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 18:15:27,755 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-21 18:23:01,732 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 18:23:01,732 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-21 18:23:01,735 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 18:23:01,736 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-21 18:24:13,111 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 18:24:13,112 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-21 18:24:13,115 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 18:24:13,115 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-21 18:28:11,661 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-21 18:28:11,662 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
+2022-10-21 18:28:11,685 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

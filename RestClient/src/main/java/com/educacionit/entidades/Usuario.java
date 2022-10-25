@@ -25,7 +25,7 @@ public class Usuario {
 
 	@Override
 	public String toString() {
-		return "Usuario [correo=" + correo + ", clave=" + clave + ", fechaActualizacion=" + fechaActualizacion
+		return "[correo=" + correo + ", clave=" + clave + ", fechaActualizacion=" + fechaActualizacion
 				+ ", fechaCreacion=" + fechaCreacion + "]";
 	}
 

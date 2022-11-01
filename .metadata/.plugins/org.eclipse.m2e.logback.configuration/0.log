@@ -4207,3 +4207,19 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (3) references 
 2022-10-21 19:25:06,470 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\main\resources
 2022-10-21 19:25:06,473 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-21 19:25:06,474 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\RestClient\src\test\resources
+2022-10-25 17:54:40,805 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-25 17:55:10,719 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 17:55:10,720 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\DAO\src\main\resources
+2022-10-25 17:55:10,725 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 17:55:10,726 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\DAO\src\test\resources
+2022-10-25 17:55:15,435 [Worker-4: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-25 17:55:15,664 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 17:55:15,674 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\main\resources
+2022-10-25 17:55:15,677 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 17:55:15,678 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\Rest\src\test\resources
+2022-10-25 17:55:19,286 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/DAO: com.educacionit:DAO:0.0.1-SNAPSHOT with classifier  to /DAO/target/classes
+2022-10-25 17:55:19,302 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 17:55:19,303 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\WebService\src\main\resources
+2022-10-25 17:55:19,306 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-25 17:55:19,306 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Leonardo\Desktop\JAVA WEB API\Workspace_59758\WebService\src\test\resources
+2022-10-28 17:59:23,669 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

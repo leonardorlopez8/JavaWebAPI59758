@@ -1,4 +1,8 @@
 import React from "react";
+import '../recursos/CSS/form.css';
+import '../recursos/CSS/button.css';
+
+
 
 export default class Formulario extends React.Component {
 
@@ -17,7 +21,7 @@ export default class Formulario extends React.Component {
         estado[propiedad] = valor;
         this.setState(estado);
     }
-    
+
     asignarValoresFormulario = (event) => {
         this.setState({
             [event.target.name]: event.target.value,
@@ -25,12 +29,30 @@ export default class Formulario extends React.Component {
         })
     }
 
+    enviarValoresFormulario = (event) => {
+        event.preventDefault();
+        this.props.agregarUsuario(this.state.email, this.state.first_name, this.state.last_name);
+        
+        this.limpiarValoresFormulario();
+    }
+
+    //Funcion para limpiar (reset)
+    limpiarValoresFormulario = () => {
+        //ponemos el estado original
+        this.setState({
+            first_name: "",
+            last_name: "",
+            email: ""
+        });
+    }
+
+
 
     render() {
         return (
 
             <>
-                <form>
+                <form onSubmit={this.enviarValoresFormulario}>
                     <input
                         id="first_name"
                         name="first_name"
@@ -62,8 +84,8 @@ export default class Formulario extends React.Component {
                     />
 
                     <div>
-                        <button type="submit">Agregar Usuario</button>
-                        <button type="reset">Limpiar Formulario</button>
+                        <button className="success" type="submit">Agregar Usuario</button>
+                        <button className="warning" onClick={this.limpiarValoresFormulario} type="reset">Limpiar Formulario</button>
                     </div>
 
                 </form>
